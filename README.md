@@ -1,2 +1,2 @@
-# cividTracker_project
+# covidTracker_project
 This is a new covid tracker project
